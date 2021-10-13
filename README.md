@@ -10,3 +10,13 @@
 ### [Part2. 변수](https://github.com/park-daeun/Javascript-Study/blob/main/Hello%2C%20JavaScript/Part2.%20%EB%B3%80%EC%88%98/part2.md)
 ### [Part3. 자료형](https://github.com/park-daeun/Javascript-Study/blob/main/Hello%2C%20JavaScript/Part3.%20%EC%9E%90%EB%A3%8C%ED%98%95/part3.md)
 ### [Part4. 연산자와 함수](https://github.com/park-daeun/Javascript-Study/blob/main/Hello%2C%20JavaScript/Part4.%20%EC%97%B0%EC%82%B0%EC%9E%90%EC%99%80%20%ED%95%A8%EC%88%98/part4.md)
+### [Part5. String](https://github.com/park-daeun/Javascript-Study/blob/main/Hello%2C%20JavaScript/Part5.%20String/part5.md)
+### [Part6. 배열](https://github.com/park-daeun/Javascript-Study/blob/main/Hello%2C%20JavaScript/Part6.%20%EB%B0%B0%EC%97%B4/part6.md)
+### [Part7. 주석](https://github.com/park-daeun/Javascript-Study/blob/main/Hello%2C%20JavaScript/Part7.%20%EC%A3%BC%EC%84%9D/part7.md)
+### [Part8. 조건문](https://github.com/park-daeun/Javascript-Study/blob/main/Hello%2C%20JavaScript/Part8.%20%EC%A1%B0%EA%B1%B4%EB%AC%B8/part8.md)
+### [Part9. 반복문](https://github.com/park-daeun/Javascript-Study/tree/main/Hello%2C%20JavaScript/Part9.%20%EB%B0%98%EB%B3%B5%EB%AC%B8/part9.md)
+### [part10. 더 알아보기](https://github.com/park-daeun/Javascript-Study/blob/main/Hello%2C%20JavaScript/Part10.%20%EB%8D%94%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/part10.md)
+
+<br><br>
+
+## 자바스크립트와 웹 프론트엔드
